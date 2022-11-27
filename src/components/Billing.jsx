@@ -1,7 +1,6 @@
 import React from "react";
 import { apple, bill, google } from "../assets/index.js";
 import styles, { layout } from "../styles.js";
-import app from "../App.jsx";
 
 const Billing = () => {
   return (
